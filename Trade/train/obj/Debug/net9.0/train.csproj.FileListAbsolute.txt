@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Trade\train\bin\Debug\net9.0\train.exe
+C:\Users\user\Desktop\Trade\train\bin\Debug\net9.0\train.deps.json
+C:\Users\user\Desktop\Trade\train\bin\Debug\net9.0\train.runtimeconfig.json
+C:\Users\user\Desktop\Trade\train\bin\Debug\net9.0\train.dll
+C:\Users\user\Desktop\Trade\train\bin\Debug\net9.0\train.pdb
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.AssemblyInfo.cs
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.dll
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\refint\train.dll
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.pdb
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\train.genruntimeconfig.cache
+C:\Users\user\Desktop\Trade\train\obj\Debug\net9.0\ref\train.dll
